@@ -2,6 +2,9 @@
 
 *Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
+
+Howto: https://www.youtube.com/watch?v=Y86k1Is45Uo
+
 ---
 
 # svelte app
